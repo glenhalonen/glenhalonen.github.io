@@ -1,0 +1,4 @@
+git add -A #Adds files that can be commited
+git commit -m "Your Message" #commits your changes to your local repo
+git pull #pulls the changes down from the remote repo and merges the files
+git push #pushes the changes to the remote repo
