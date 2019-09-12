@@ -1,0 +1,92 @@
+body {
+    background-color: white;
+}
+
+#name {
+    margin-left:20px;
+}
+
+#links {
+    background-color: black;
+    padding: 3px;
+    height: 60px;
+    color: white;
+    text-align:center;
+}
+
+#quick_about {
+    background:none;
+    color:inherit;
+    border:none;
+    font:inherit;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;  
+    padding-top: 15px;
+    padding-bottom: 23px;  
+    margin-top: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#resume_link {
+    background:none;
+    color:inherit;
+    border:none;
+    font:inherit;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;  
+    padding-top: 15px;
+    padding-bottom: 23px;  
+    margin-top: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#projects_link {
+    background:none;
+    color:inherit;
+    border:none;
+    font:inherit;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 23px;
+    margin-top: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#divider {
+    width: 20px;
+    height: 30px;
+    display:inline-block;
+}
+
+#resume_pdf {
+    margin-top: 20px;
+}
+
+#resume_container {
+    margin:auto;
+}
+
+resume_link:hover {
+    color: blue;
+}
+
+.container{
+    width:200px;
+    height:420px;
+    margin-left:20px;
+    margin-top:1px;
+}
+
+.container img {
+    width:100%;
+    height:auto;
+    margin-right:1px;
+}
+
